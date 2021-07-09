@@ -1,4 +1,4 @@
-# Mystery
+# MysteryHouse
 MysteryHouse
 
 The BSC space has exploded across Q1 and Q2 of 2021, with a plethora of new token launches per week. While some of these new projects were and are innovative, unique and legitimate, a majority of them turn out to be scams and rug pulls, effectively taking money from new investors that could have gone into real projects instead. The Spring/Summer cryptocurrency downtrend has accentuated this phenomenon. It it so problematic that in response we have decided to launch the whole concept of Mystery House.
