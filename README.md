@@ -1,5 +1,6 @@
 # Mystery
 MysteryHouse
+
 The BSC space has exploded across Q1 and Q2 of 2021, with a plethora of new token launches per week. While some of these new projects were and are innovative, unique and legitimate, a majority of them turn out to be scams and rug pulls, effectively taking money from new investors that could have gone into real projects instead. The Spring/Summer cryptocurrency downtrend has accentuated this phenomenon. It it so problematic that in response we have decided to launch the whole concept of Mystery House.
 
 Mystery House is a multi-utility coin that will keep on giving! The first utility will be a SAFU Launchpad that will be going online in August 2021. Using our proprietary technology, the launchpad will offer advantages to token holders by allowing them early access to new coin launches. You will need to HOLD mystery house tokens to participate in any coins or tokens that are released through the launchpad.
